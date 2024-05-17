@@ -10,6 +10,10 @@
   <li>Kauane Almeida Gonçalves - Responsável por fazer Mobile e C# - Entregue no dia 18/05/2024 </li>
 </ul>
 
+<h1>Atualizações</h1>
+
+<p>Implementamos mudanças significativas em nosso projeto Java. Elevamos nosso código para o Modelo de Maturidade Nível 2, introduzimos a entidade 'Treinos' para acompanhar detalhes dos treinos dos usuários, renomeamos campos na entidade 'Cadastro' para maior clareza e adicionamos validações de restrição única para garantir a segurança dos dados. Essas melhorias refletem nosso compromisso com a qualidade e funcionalidade da plataforma.</p>
+
 <h1>Como rodar o projeto</h1>
 
 <p>Abra o Projeto no IntelliJ:
